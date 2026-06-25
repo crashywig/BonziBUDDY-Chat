@@ -1,4 +1,4 @@
-# BonziWORLD
+# BonziBUDDY Chat
 
 ## Dependencies
 - Node.js and npm
