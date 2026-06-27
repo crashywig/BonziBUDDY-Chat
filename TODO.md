@@ -1,4 +1,4 @@
-# Todos.
+# These are todos so we can corporatize BonziBUDDY Chat.
 
 - [ ] Add the message log [**0% done**]
 - [ ] Add the ban panel [**0% done**]
@@ -12,7 +12,6 @@
 - [ ] Add the Global Mute tool that mutes the user globally in a lobby [**0% done**]
 - [ ] Replace public lobbies with randomized IDs with the lobby ID default [**0% done**]
 - [ ] Remove the member cap [**0% done**]
-- [ ] Add the message log [**0% done**]
 - [ ] Add admins [**0% done**]
 - [ ] Add moderators [**0% done**]
 - [ ] Add electoral colleges [**0% done**]
