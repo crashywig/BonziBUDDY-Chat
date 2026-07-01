@@ -1,5 +1,6 @@
 # BonziBUDDY Chat
 BonziBUDDY Chat is an open-source, self-hostable server.
+This is a no-AI repository. Do not attempt to code using AI.
 ## Dependencies
 - Node.js and npm
 - Git
