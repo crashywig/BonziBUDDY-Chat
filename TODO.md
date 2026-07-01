@@ -25,5 +25,4 @@
 - [ ] Add settings [**0% done**]
 - [ ] Add auto-rejoin [**0% done**]
 - [ ] Add a typing/commanding indicator. [**0% done**]
-<br><br> Quick note: All administrative ranks are equal.
 <br><br> There are more todos to come.
